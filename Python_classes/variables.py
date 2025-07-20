@@ -36,3 +36,12 @@ x, y, z = fruits
 print(x)
 print(y)
 print(z)
+
+#The print() function is used to output variables
+x = 13
+print(x)
+
+x = ("Python")
+y = ("is")
+z = ("awesome")
+print(x, y, z)
